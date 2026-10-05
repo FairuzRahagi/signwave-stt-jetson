@@ -1,0 +1,6 @@
+sherpa-onnx
+onnxruntime        # use onnxruntime-gpu matching your JetPack on Jetson
+numpy
+soundfile
+jiwer
+paho-mqtt<2.0      # GUI_UDP.py uses the paho 1.x Client() constructor

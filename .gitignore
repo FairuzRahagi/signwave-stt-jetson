@@ -1,0 +1,9 @@
+models/
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.wav
+*.onnx
+.DS_Store
+Thumbs.db
